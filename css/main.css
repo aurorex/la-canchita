@@ -1,0 +1,86 @@
+.area1{/*usamos selector clase*/
+  background-color: #52BE80;/*color de fondo*/
+  width: 900px;/*ancho*/
+  height: 400px;/*altura*/
+  position:static;/*usamos la propiedad position de valor static para mantener a nuestro bloque div en su lugar*/
+
+
+}
+
+
+.area2{
+  background-color:  #52BE80;
+  width: 870px;
+  height:370px;
+  border: 3px solid white;/*agregamos borde */
+  position: relative;/*propiedad position de valor relative para modificar su posicion final*/
+  bottom:388px;/*usamos la propiedad bottom para mover hacia arriba el elemento bloque*/
+  left:12px;/*propiedad left para mover el elemento hacia la derecha*/
+}
+
+.arc1{
+  background-color:  #52BE80;
+  width:70px ;
+  height:150px;
+  border: 3px solid white;
+  position: relative;
+  bottom:653px;
+  left: 12px;
+
+}
+
+.arc2{
+  background-color:  #52BE80;
+  width:70px ;
+  height:150px;
+  border: 3px solid white;
+  position: relative;
+  bottom:810px;
+  left: 812px;
+
+}
+
+.circle{
+  background-color:  #52BE80;
+  width:150px ;
+  height:150px;
+  border: 3px solid white;
+  border-radius: 150px;/*propiedad que permite un borde de forma circular*/
+  position: relative;
+  bottom:967px;
+  left: 372px;
+
+}
+.ball1{
+
+    background-color:white;
+    width:18px ;
+    height:18px;
+    border-radius:18px;
+    position: relative;
+    bottom:1118px;
+    left: 74px;
+
+}
+.ball2{
+
+    background-color:white;
+    width:18px ;
+    height:18px;
+    border-radius:18px;
+    position: relative;
+    bottom:1198px;
+    left: 460px;
+
+}
+.ball3{
+
+    background-color:white;
+    width:18px ;
+    height:18px;
+    border-radius:18px;
+    position: relative;
+    bottom:1030px;
+    left: 790px;
+
+}
